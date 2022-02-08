@@ -1,4 +1,8 @@
-### Hi there 👋
+### The PSG FAN TOKEN CLUB project - is from https://psgfantoken.club
+
+We are a Paris Saint-Germain fan club and we are not part of the sponsor team or other real advisors to PSG.
+
+In this repository will be the ERC20 Token contract implemented in the BSC. 👋
 
 <!--
 **PSGFanToken/psgfantoken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
